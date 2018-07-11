@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldSettingData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Moon</Name>
+  <Description>While the presence of Coal isn't typical of Earth's Moon, the relatively flat terrain full of various sizeable craters and lack of atmosphere may be more familiar in this grey landscape.</Description>
+  <GameMode>Survival</GameMode>
+  <SkyBoxMaterialName>Starfield Skybox</SkyBoxMaterialName>
+  <SunPrefabName>MoonSun</SunPrefabName>
+  <TerrainPrefabName>TerrainMoon</TerrainPrefabName>
+  <Gravity>-9.8</Gravity>
+  <SizeOfWorld>10</SizeOfWorld>
+  <WorldOreDensity>0.001</WorldOreDensity>
+  <NumberOfCratersPerRegion>5</NumberOfCratersPerRegion>
+  <NumberOfRegions>8</NumberOfRegions>
+  <SizeOfCraterRegions>50</SizeOfCraterRegions>
+  <BedrockLevel>-40</BedrockLevel>
+  <Kelvin>0</Kelvin>
+  <HungerRate>1</HungerRate>
+  <StartingCondition>Default</StartingCondition>
+  <Seed>0</Seed>
+  <AtmosphericScattering>false</AtmosphericScattering>
+  <AtmosphereComposition />
+  <TerrainGenerationFeatures>
+    <Feature>Normal</Feature>
+    <Feature>Craters</Feature>
+  </TerrainGenerationFeatures>
+  <CustomTerrainParameters />
+</WorldSettingData>
