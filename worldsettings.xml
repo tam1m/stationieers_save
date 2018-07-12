@@ -5,19 +5,26 @@
   <GameMode>Survival</GameMode>
   <SkyBoxMaterialName>Starfield Skybox</SkyBoxMaterialName>
   <SunPrefabName>MoonSun</SunPrefabName>
+  <Planets />
   <TerrainPrefabName>TerrainMoon</TerrainPrefabName>
-  <Gravity>-9.8</Gravity>
+  <Gravity>-1.62</Gravity>
   <SizeOfWorld>10</SizeOfWorld>
   <WorldOreDensity>0.001</WorldOreDensity>
   <NumberOfCratersPerRegion>5</NumberOfCratersPerRegion>
   <NumberOfRegions>8</NumberOfRegions>
   <SizeOfCraterRegions>50</SizeOfCraterRegions>
   <BedrockLevel>-40</BedrockLevel>
-  <Kelvin>0</Kelvin>
+  <Kelvin>
+    <keys />
+    <preWrapMode>ClampForever</preWrapMode>
+    <postWrapMode>ClampForever</postWrapMode>
+  </Kelvin>
   <HungerRate>1</HungerRate>
   <StartingCondition>Default</StartingCondition>
   <Seed>0</Seed>
   <AtmosphericScattering>false</AtmosphericScattering>
+  <SolarScale>1</SolarScale>
+  <SolarEclipticAngle>0</SolarEclipticAngle>
   <AtmosphereComposition />
   <TerrainGenerationFeatures>
     <Feature>Normal</Feature>
