@@ -2,13 +2,13 @@
 <WorldData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Game>Assembly-CSharp</Game>
   <GameVersion>0.1.1505.7124</GameVersion>
-  <DateTime>131760473095468467</DateTime>
+  <DateTime>131760608597810229</DateTime>
   <WorldName>Mars</WorldName>
   <MissionStage>0</MissionStage>
   <WorldType>-1</WorldType>
-  <WorldSeed>2987513</WorldSeed>
+  <WorldSeed>6374228</WorldSeed>
   <BedrockLevel>-40</BedrockLevel>
-  <SunTime>843.036133</SunTime>
+  <SunTime>1003.49561</SunTime>
   <Rooms>
     <Room>
       <Grids>
