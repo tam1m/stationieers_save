@@ -2,15 +2,15 @@
 <WorldMetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Game>Assembly-CSharp</Game>
   <GameVersion>0.1.1550.7285</GameVersion>
-  <DateTime>131767642345835862</DateTime>
+  <DateTime>131768372474275942</DateTime>
   <MissionStage>0</MissionStage>
   <WorldName>Mars</WorldName>
   <WorldFileName>moon_save</WorldFileName>
   <WorkShopFileHandle>0</WorkShopFileHandle>
-  <NumberOfRooms>314</NumberOfRooms>
+  <NumberOfRooms>317</NumberOfRooms>
   <NumberOfPipeNetworks>40</NumberOfPipeNetworks>
-  <NumberOfCableNetworks>18</NumberOfCableNetworks>
-  <NumberOfThings>2425</NumberOfThings>
-  <NumberOfAtmospheres>521</NumberOfAtmospheres>
+  <NumberOfCableNetworks>17</NumberOfCableNetworks>
+  <NumberOfThings>2166</NumberOfThings>
+  <NumberOfAtmospheres>394</NumberOfAtmospheres>
   <NumberOfAsteriods>0</NumberOfAsteriods>
 </WorldMetaData>
